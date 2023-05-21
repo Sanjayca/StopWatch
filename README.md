@@ -1,5 +1,4 @@
 # StopWatch
-# Stopwatch
 
 This is a simple stopwatch project implemented using vanilla JavaScript. It allows you to measure time by starting, stopping, and resetting the stopwatch.
 
